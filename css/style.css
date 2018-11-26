@@ -29,7 +29,7 @@ p {
 div.section {
 	position: relative;
 	border: 1px solid black;
-	width: 315px;
+	width: auto;
 	height: 150px;
 	margin: 20px;
 	padding: 40px 20px 20px 20px;
@@ -40,22 +40,19 @@ div.section {
 h2.chicken {
 	background-color: #D59898;
 	position: absolute;
-	top: -13px;
-	left: 214px;
+	right: -1px;
 }
 
 h2.beef {
 	background-color: #C14543;
 	position: absolute;
-	top: -13px;
-	left: 214px;
+	right: -1px;
 }
 
 h2.sushi {
 	background-color: #E5D198;
 	position: absolute;
-	top: -13px;
-	left: 214px;
+	right: -1px;
 }
 
 
