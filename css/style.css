@@ -41,18 +41,21 @@ h2.chicken {
 	background-color: #D59898;
 	position: absolute;
 	right: -1px;
+	top: 16px;
 }
 
 h2.beef {
 	background-color: #C14543;
 	position: absolute;
 	right: -1px;
+	top: 16px;
 }
 
 h2.sushi {
 	background-color: #E5D198;
 	position: absolute;
 	right: -1px;
+	top: 16px;
 }
 
 
